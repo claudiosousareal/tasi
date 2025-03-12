@@ -1,1 +1,0 @@
-console.log("Arquivo alterado na branch secundária")
