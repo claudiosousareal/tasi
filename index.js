@@ -1,1 +1,1 @@
-console.log("alterado na branch master")
+console.log("Arquivo alterado localmente")
